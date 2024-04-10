@@ -8,7 +8,7 @@
 지금은 특별히 관심 가는 분야는 없지만 다양하게 체험해보려고 하고 있습니다.
 
 ### Email
-
+wakhj47@naver.com
 <!--!
 **Uzrt/Uzrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
