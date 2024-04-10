@@ -1,5 +1,7 @@
 ## Introduction
-Hello,
+안녕하세요, 저는 Se-Eun Park이라고 합니다.
+
+## Carrar
 
 <!--
 **Uzrt/Uzrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
