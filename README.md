@@ -1,14 +1,13 @@
 ## Introduction
 안녕하세요, 저는 영남대 학생 Se-Eun Park이라고 합니다. git에 대해 배우고 있으며 언젠가 이를 능숙하게 활용하는 것이 목표입니다!
 
-
 ## Career
 현재는 배우고 있는 중입니다!
 
-##Interest
+## Interest
 지금은 특별히 관심 가는 분야는 없지만 다양하게 체험해보려고 하고 있습니다.
 
-###Email
+### Email
 
 <!--!
 **Uzrt/Uzrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
